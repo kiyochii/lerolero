@@ -13,7 +13,7 @@ if lingua == 2
 	parte1 = [
 	"O sistema em desenvolvimento",
 	"O novo protocolo de comunicação",
-	"O algoritmo otimizado"]
+	"O algoritmo de otimizacao"]
 	parte2 = [
 	"possui excelente desempenho",
 	"oferece garantias de precisão acima da média",
