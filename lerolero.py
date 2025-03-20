@@ -17,3 +17,4 @@ if lingua == 2
 
 print(random.choice(parte1), random.choice(parte2), random.choice(parte3))
 
+#teste
